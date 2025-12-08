@@ -121,8 +121,3 @@
   <a href="https://www.hackerrank.com/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Hackerrank"/></a>
   <a href="https://t.me/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
-
----
-<div align="center">
-  <small>Basado en el perfil de <a href="https://github.com/Elanza-48">Elanza-48</a></small> | Última edición: [Fecha de Hoy]
-</div>

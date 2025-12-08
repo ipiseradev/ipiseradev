@@ -95,29 +95,10 @@
 
 ---
 
-<h2 align="center">Estadísticas de GitHub 📊</h2>
-
-<div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignaciopisera&show_icons=true&theme=dark&hide_border=true&locale=es&rank_icon=github)](https://github.com/ignaciopisera)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ignaciopisera&theme=dark)](https://github.com/ignaciopisera)
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ignaciopisera/ignaciopisera/main/resources/img/github-contribution-grid-snake.svg" alt="Contribuciones de GitHub en Snake" />
-</p>
-
----
-
 <h2 align="center">Conecta Conmigo y Contacto 🔗</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:ignacio.pisera@outlook.com?subject=Interesado%20en%20Colaborar" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Outlook"/></a>
+  <a href="https://www.linkedin.com/in/ignacio-pisera-16851a2b6/" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="ipisera.dev@gmail.com?subject=Interesado%20en%20Colaborar" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Outlook"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.leetcode.com/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Hackerrank"/></a>
-  <a href="https://t.me/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>

@@ -99,6 +99,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-pisera-16851a2b6/" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="ipisera.dev@gmail.com?subject=Interesado%20en%20Colaborar" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Outlook"/></a>
 </p>
 

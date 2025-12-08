@@ -4,17 +4,17 @@
 
 <h1 align="center">¡Hola! Soy Ignacio Pisera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="GIF de saludo"></h1>
 
-<h3 align="center">Desarrollador Backend Apasionado 💻</h3>
-<h4 align="center">Con sede en Argentina 🇦🇷</h4>
+<h3 align="center">Desarrollador Full-Stack (Backend Principal) 💻</h3>
+<h4 align="center">Apasionado por la arquitectura y el diseño de sistemas escalables.</h4>
 
 ---
 
 ### Acerca de Mí 📝
 
-* 🌱 Actualmente estoy profundizando en **Arquitectura de Microservicios** y **patrones de diseño avanzados** con **Spring Framework**.
-* 🤝 Busco colaborar en proyectos de **Backend** que utilicen **Spring Framework** y **diseño de sistemas escalables**.
+* 🌱 Actualmente estoy profundizando en **Arquitectura de Microservicios** con **Spring Boot** y **Cloud Computing**.
+* 👯 Busco colaborar en proyectos **Full-Stack** que busquen una integración robusta entre **Spring** y **React/Angular**.
 * 💡 Me gustaría recibir ayuda u orientación en **Patrones de Diseño de Backend y Arquitectura Cloud**.
-* 👨‍💻 Todos mis proyectos están disponibles aquí: **[github.com/ignaciopisera](https://github.com/ignaciopisera)** (Asegúrate de cambiar esto a tu cuenta real).
+* 👨‍💻 Todos mis proyectos están disponibles aquí: **[github.com/ignaciopisera](https://github.com/ignaciopisera)** (¡Recuerda cambiar a tu usuario real!)
 * 💬 Pregúntame sobre **Diseño de Sistemas, Java/Spring, o Filosofía 😆**.
 * ⚡ Dato curioso: **La codificación es una pasión, no solo una profesión.**
 
@@ -26,15 +26,16 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" width="400" alt="GIF de codificación"/>
 </p>
 
-<h3 align="center">Lenguajes de Backend y Core</h3>
+<h3 align="center">Lenguajes de Programación Principales</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-<h3 align="center">Frameworks y Tecnologías Backend Clave ⭐</h3>
+<h3 align="center">Backend & Frameworks de Sistema ⭐</h3>
 <p align="center">
   <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring IOC"/></a>
@@ -44,12 +45,24 @@
   <a href="https://graphql.org" target="_blank"><img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
 </p>
 
+<h3 align="center">Frontend & UI/UX 🌐</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+</p>
+
 <h3 align="center">Bases de Datos y Persistencia 💾</h3>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https.www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
 </p>
 
 <h3 align="center">DevOps, Contenedores y Cloud ☁️</h3>
@@ -58,8 +71,9 @@
   <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
-  </p>
+</p>
 
 <h3 align="center">Control de Versiones y Testing ✅</h3>
 <p align="center">
@@ -107,7 +121,8 @@
   <a href="https://www.hackerrank.com/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Hackerrank"/></a>
   <a href="https://t.me/ignaciopisera" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
+
 ---
 <div align="center">
-  <small>Basado en el perfil de <a href="https://github.com/Elanza-48">Elanza-48</a></small> | Última edición: 09/09/2021
+  <small>Basado en el perfil de <a href="https://github.com/Elanza-48">Elanza-48</a></small> | Última edición: [Fecha de Hoy]
 </div>

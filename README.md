@@ -4,7 +4,7 @@
 
 <h1 align="center">¡Hola! Soy Ignacio Pisera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" alt="GIF de saludo"></h1>
 
-<h3 align="center">Desarrollador Full-Stack (Backend Principal) 💻</h3>
+<h3 align="center">Desarrollador Full-Stack (Backend Principal) Con Conocimientos en C++ 💻</h3>
 <h4 align="center">Apasionado por la arquitectura y el diseño de sistemas escalables.</h4>
 
 ---
@@ -14,7 +14,7 @@
 * 🌱 Actualmente estoy profundizando en **Arquitectura de Microservicios** con **Spring Boot** y **Cloud Computing**.
 * 👯 Busco colaborar en proyectos **Full-Stack** que busquen una integración robusta entre **Spring** y **React/Angular**.
 * 💡 Me gustaría recibir ayuda u orientación en **Patrones de Diseño de Backend y Arquitectura Cloud**.
-* 👨‍💻 Todos mis proyectos están disponibles aquí: **[github.com/ignaciopisera](https://github.com/ignaciopisera)** (¡Recuerda cambiar a tu usuario real!)
+* 👨‍💻 Todos mis proyectos están disponibles aquí: **https://github.com/ipiseradev*
 * 💬 Pregúntame sobre **Diseño de Sistemas, Java/Spring, o Filosofía 😆**.
 * ⚡ Dato curioso: **La codificación es una pasión, no solo una profesión.**
 

@@ -94,7 +94,7 @@
 
 ---
 
-<h2 align="center">Conecta Conmigo y Contacto 🔗</h2>
+<h2 align="center">Conecta Conmigo y Contacatme si tenes una oportunidad o un proyecto en mente.</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-pisera-16851a2b6/" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

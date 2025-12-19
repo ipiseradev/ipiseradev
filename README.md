@@ -15,8 +15,7 @@
 * 👯 Busco colaborar en proyectos **Full-Stack** que busquen una integración robusta entre **Spring** y **React/Angular**.
 * 💡 Me gustaría recibir ayuda u orientación en **Patrones de Diseño de Backend y Arquitectura Cloud**.
 * 👨‍💻 Todos mis proyectos están disponibles aquí: https://github.com/ipiseradev
-* 💬 Pregúntame sobre **Diseño de Sistemas, Java/Spring.
-* ⚡ Dato curioso: **La codificación es una pasión, no solo una profesión.**
+* 💬 Pregúntame sobre Diseño de Sistemas, Java/Spring
 
 ---
 

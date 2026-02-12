@@ -100,3 +100,11 @@
   <a href="https://www.linkedin.com/in/ignacio-pisera-16851a2b6/" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+
+---
+
+## 🚀 Guía práctica
+
+Si querés armar un proyecto serio para generar ingresos y posicionarte en LinkedIn, revisá esta hoja de ruta:
+
+- [Plan de proyecto serio para ingresos + Git + LinkedIn](PLAN_PROYECTO_INGRESOS.md)
